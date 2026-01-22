@@ -1,4 +1,4 @@
-<h1>Hi, I'm Waleed Umer! <br/><a href="https://github.com/WaleedUmer357">Hardware Design Enthusiast</a>, <a href="https://www.linkedin.com/in/waleedumer357/">Electrical / Electronics Engineer</a></h1>
+<h1>Hi, I'm Waleed Umer! <br/><a href="https://github.com/WaleedUmer357"> Electrical / Electronics Engineer</a>, <a href="https://www.linkedin.com/in/waleedumer357/">  Hardware Design Enthusiast </a></h1>
 <p align="center">
   <i>Passionate about turning complex engineering challenges into elegant hardware solutions. I specialize in PCB design, MATLAB, C ,FPGA development, VLSI design  and embedded systems with a particular fondness for circuits that work on the first spin and code that compiles without warnings. Similarly, I am also interested in renewable energy systems. Currently based in Brisbane , Australia, where I spend my days designing boards in Altium, debugging RTOS implementations, and occasionally convincing microcontrollers to cooperate.</i>
 </p>
