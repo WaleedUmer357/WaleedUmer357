@@ -39,7 +39,7 @@
 
 - <b><a href="https://github.com/WaleedUmer357/Integrated-Circuit-Design-Final-Project-Gate-Level-ALU-Design-">4-bit Arithmetic Logic Unit (ALU) - VLSI Design Project</a></b>
   - Industrial-grade VLSI design of an ALU
-  - <a href="YOUR_LINK_HERE">Design Files</a> | <a href="YOUR_LINK_HERE">Simulation Results</a> | <a href="YOUR_LINK_HERE">Layout</a>
+  - <a href="ICD Design Project/ICD_Design_Project/jelib_project files">Design Files</a> | <a href="ICD Design Project/ICD_Design_Project/Result_images">Layout</a>
 
 <h3>🖥️ Operating Systems & Software</h3>
 
@@ -50,7 +50,7 @@
 <h3>🤖 Machine Vision & AI</h3>
 
 - <b><a href="https://github.com/WaleedUmer357/Image-Processing-and-Machine-Vision-Final-Project-2024">German Traffic Sign Recognition with YOLO</a></b>
-  - Machine vision 2024 final project on German traffic sign recognition
+  - Academic Project for Image Processing and machine learning course  on German traffic sign recognition
   - <a href="YOUR_LINK_HERE">Model Weights</a> | <a href="YOUR_LINK_HERE">Training Notebook</a> | <a href="YOUR_LINK_HERE">Demo</a>
 
 <h3>⚙️ Industrial Automation</h3>
