@@ -65,7 +65,7 @@
 - <b><a href="https://github.com/WaleedUmer357/Industry-Affiliate-Dissertation-IAP">Industry Affiliate Dissertation (IAP)</a></b>
   - Research assistant internship at Griffith University on ARIMA modeling of noise in electromyography signals
   - An innovative way to observe, design and tackle noise in electromyography data
-  - <a href="YOUR_LINK_HERE">Research Paper</a> | <a href="YOUR_LINK_HERE">Presentation</a> | <a href="YOUR_LINK_HERE">Data Analysis</a>
+  - <a href="YOUR_LINK_HERE">Research Paper</a> | <a href="YOUR_LINK_HERE">Presentation</a>
 
 <h3>📊 Project Management</h3>
 
