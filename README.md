@@ -25,8 +25,8 @@
 
 - <b><a href="https://github.com/WaleedUmer357/Final-Year-Project_2022_PIEAS">Classification of sEMG Signals - Final Year Project 2022</a></b>
   - EMG Signal Classification for Robotic Arm and Finger Movement Control
-  - <a href="https://www.youtube.com/watch?v=pgFrnovjAek">Demo Video</a> | <a href="YOUR_LINK_HERE">Research Paper</a> | <a href="YOUR_LINK_HERE">Dataset</a>
-  
+  - <a href="https://www.youtube.com/watch?v=pgFrnovjAek">Demo Video</a> | <a href="YOUR_LINK_HERE">Research Paper</a>
+    
 - <b><a href="https://github.com/WaleedUmer357/Anti-Collision-Radar-for-UAVs">Anti-Collision Radar for UAVs</a></b>
   - Project done in collaboration with Micron Avionics on their new lightweight and affordable radar design for UAV mounting
   - <a href="YOUR_LINK_HERE">Technical Documentation</a> | <a href="YOUR_LINK_HERE">Test Results</a>
